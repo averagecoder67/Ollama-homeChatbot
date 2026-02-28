@@ -4,8 +4,6 @@ from langchain_core.prompts import ChatPromtTemplate
 import RPi.GPIO as GPIO
 import time
 
-user_input = input("Enter your prompt: ")
-
 template = """
 
 # your template goes here (basically the instructions on how the bot should interact/answer questions)
