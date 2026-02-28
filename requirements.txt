@@ -1,1 +1,6 @@
-
+langchain
+langchain-ollama
+ollama
+wikipedia
+google-search-results
+langchain-chroma
